@@ -17,10 +17,10 @@
 }
 
 body {
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
-  min-width: 100vw;
-  min-height: 100vh;
+  /* min-width: 100vw;
+  min-height: 100vh; */
   margin: 0;
 }
 
